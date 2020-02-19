@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="catch_the_drop:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c399e55-74e0-477f-847c-623b6637ec9b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XyWfni600JxxVQqTJSMhOrP2aD" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ru.geekbrains.lesson_4_catch_the_drop.GameWindow" />
+      <module name="catch_the_drop" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c399e55-74e0-477f-847c-623b6637ec9b" name="Default Changelist" comment="" />
+      <created>1582018920361</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582018920361</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="98" y="60" key="#Auto_Import" timestamp="1582019330123">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="98" y="60" key="#Auto_Import/0.0.1536.824@0.0.1536.824" timestamp="1582019330123" />
+    <state x="114" y="50" key="#Project_Structure" timestamp="1582021834058">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="114" y="50" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1582021834058" />
+    <state x="187" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1582021392183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="187" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582021392183" />
+    <state x="130" y="93" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582021827510">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="130" y="93" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1582021827510" />
+    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1582115453168">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582115453168" />
+    <state width="948" height="177" key="GridCell.Tab.0.bottom" timestamp="1582021732580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="948" height="177" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582021732580" />
+    <state width="948" height="177" key="GridCell.Tab.0.center" timestamp="1582021732580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="948" height="177" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582021732580" />
+    <state width="948" height="177" key="GridCell.Tab.0.left" timestamp="1582021732580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="948" height="177" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582021732580" />
+    <state width="948" height="177" key="GridCell.Tab.0.right" timestamp="1582021732580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="948" height="177" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582021732580" />
+    <state x="305" y="215" key="com.intellij.ide.util.TipDialog" timestamp="1582091531267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="305" y="215" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582091531267" />
+    <state x="62" y="20" key="new project wizard" timestamp="1582091600927">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="62" y="20" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582091600927" />
+  </component>
+</project>
